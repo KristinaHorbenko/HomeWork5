@@ -1,7 +1,6 @@
-package Car;
+package Car1;
 
 public class Car {
-
     public void start() {
         startElectricity();
         startCommand();
@@ -21,3 +20,4 @@ public class Car {
 
     }
 }
+

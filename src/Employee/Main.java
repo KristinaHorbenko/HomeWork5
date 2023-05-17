@@ -25,3 +25,4 @@ public class Main {
         System.out.println(fullName + '\n' + position + '\n' + email + '\n' + phone + '\n' + age);
     }
 }
+
