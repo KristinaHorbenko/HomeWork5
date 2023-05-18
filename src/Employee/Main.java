@@ -2,10 +2,10 @@ package Employee;
 
 public class Main {
     static String fullName;
-    static String position;
-    static String email;
-    static String phone;
-    static int age;
+    private static String position;
+    private static String email;
+    private static String phone;
+    private static int age;
     public static void main(String[] args) {
         Employee employee = new Employee();
         employee.setFullName("Tom");
